@@ -44,8 +44,8 @@ var spaceship ={
 	score: 300000,
 	xt:0,
 	yt:0,
-	uroven:0,
-	akturoven:6,
+	uroven:6,
+	akturoven:1,
 	zvuk:0,
 	track:new Audio("sounds/engine_by_anoesj.mp3"),
 	
