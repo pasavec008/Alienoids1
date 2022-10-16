@@ -41,7 +41,7 @@ var spaceship ={
 	zbran2_cd:0,
 	cd1: 0,
 	cd2: 0,
-	score: 300000,
+	score: 3000,
 	xt:0,
 	yt:0,
 	uroven:6,
